@@ -1,9 +1,9 @@
-#spring-boot-mybatis-annotation integration
+# spring-boot-mybatis-annotation integration
 
-*dependencies
+* dependencies
 springboot
 mybatis-spring-boot
 
 
-*usage
+* usage
 mybatis-annotation for sql
